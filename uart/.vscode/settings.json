@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "worker_threads.h": "c",
+        "fifo.h": "c",
+        "common.h": "c",
+        "uart_dev.h": "c",
+        "app.h": "c",
+        "hup.h": "c"
+    }
+}
