@@ -1,0 +1,5 @@
+*.DEPEND
+*.o
+*.log
+
+.vscode
